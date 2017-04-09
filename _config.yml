@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Teuku Back
+  copyright: Teuku Back Foundation
   location: Location
   social: Around the Web
   credits: Credits
@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 24251 Bireuen
-  - line: Aceh - Indonesia
+  - line: Jln. Bireuen-Takengon Km3 Juli Mns Tambo
+  - line: Bireuen, Aceh, Indonesia
 
 # Credits content
-credits: 'Hanya sekedar untuk perkenalan diri <a href="http://teukuback.com">Teuku Back</a>.'
+credits: 'Just Another Handsome Website 
 
 # Build settings
 markdown: kramdown
